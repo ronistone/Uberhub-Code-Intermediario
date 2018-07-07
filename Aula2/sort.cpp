@@ -15,24 +15,11 @@ main(){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
 bool maiorQue(int a, int b){
 	if(a > 100)
 		return true;
 	return a < b;
 }
-
-
 
 
 bool ordenaString(char* a, char* b){
@@ -42,8 +29,6 @@ bool ordenaString(char* a, char* b){
 	}
 	return false;	
 }
-
-
 
 
 
